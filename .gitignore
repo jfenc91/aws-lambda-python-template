@@ -1,0 +1,5 @@
+.vagrant
+.idea
+**.pyc
+bin
+**__pycache__**
