@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jfenc91/aws-lambda-python-template.svg?branch=master)](https://travis-ci.org/jfenc91/aws-lambda-python-template)
+
 # AWS Lambda Template
 
 This is a template project for writing a lambda
@@ -46,3 +48,4 @@ pretty cool project.
 
 * Introduce a dockerfile that can run the build steps. It can be difficult to get the correct python setup on osx. 
 * Add a deployment methodology. This project stops at uploading the lambda code at s3.
+* Switch to pytest. It seems more full featured. I am particularly a fan of: https://github.com/joeyespo/pytest-watch
