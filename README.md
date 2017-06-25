@@ -44,3 +44,4 @@ get off the ground. So I created this project.
 
 * Introduce a dockerfile that can run the build steps. It can be difficult to get the correct python setup on osx. 
 * Add a deployment methodology. This project stops at uploading the lambda code at s3.
+* Switch to pytest. It seems more full featured. I am particularly a fan of: https://github.com/joeyespo/pytest-watch
