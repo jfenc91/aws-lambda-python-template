@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jfenc91/aws-lambda-python-template.svg?branch=master)](https://travis-ci.org/jfenc91/aws-lambda-python-template)
+
 # AWS Lambda Template
 
 This is a template project for writing a lambda
