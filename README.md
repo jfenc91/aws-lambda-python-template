@@ -39,6 +39,8 @@ As I have started using aws lambdas much more frequently, I have found them to b
 deployment, maintenance, monitoring, and testing tasks. However, the initial development setup was a bit tedious to 
 get off the ground. So I created this project.
 
+For just working lambdas without coordination with other components http://apex.run/ looks like a
+pretty cool project.
 
 ## TODO
 
